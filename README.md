@@ -90,7 +90,7 @@ cd dist && http-server
 
 ## Author
 
-- [Tania Rascia](https://www.taniarascia.com)
+- [Issamovitch](https://github.com/issamovitch)
 
 ## License
 
